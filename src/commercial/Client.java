@@ -30,6 +30,6 @@ public class Client {
     }
     @Override
     public String toString() {
-        return "Client{" + "nom=" + nom + ", telephone=" + telephone + '}';
+        return "Client{" + "nom=" + nom + ",   telephone=" + telephone + '}';
     }
 }
